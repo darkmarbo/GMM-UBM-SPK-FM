@@ -1,0 +1,3 @@
+num_all_wav:1799
+num_all_wav_ok:1294
+num_all_wav_err:505

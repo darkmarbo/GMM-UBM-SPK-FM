@@ -1,0 +1,1257 @@
+Begin world model training
+(SegTools) >> Proceeding label file reading for [ubm_1000] <<
+(SegTools) >> Proceeding label file reading for [ubm_1001] <<
+(SegTools) >> Proceeding label file reading for [ubm_1002] <<
+(SegTools) >> Proceeding label file reading for [ubm_1003] <<
+(SegTools) >> Proceeding label file reading for [ubm_100] <<
+(SegTools) >> Proceeding label file reading for [ubm_101] <<
+(SegTools) >> Proceeding label file reading for [ubm_102] <<
+(SegTools) >> Proceeding label file reading for [ubm_103] <<
+(SegTools) >> Proceeding label file reading for [ubm_104] <<
+(SegTools) >> Proceeding label file reading for [ubm_105] <<
+(SegTools) >> Proceeding label file reading for [ubm_106] <<
+(SegTools) >> Proceeding label file reading for [ubm_107] <<
+(SegTools) >> Proceeding label file reading for [ubm_108] <<
+(SegTools) >> Proceeding label file reading for [ubm_109] <<
+(SegTools) >> Proceeding label file reading for [ubm_10] <<
+(SegTools) >> Proceeding label file reading for [ubm_110] <<
+(SegTools) >> Proceeding label file reading for [ubm_111] <<
+(SegTools) >> Proceeding label file reading for [ubm_112] <<
+(SegTools) >> Proceeding label file reading for [ubm_113] <<
+(SegTools) >> Proceeding label file reading for [ubm_114] <<
+(SegTools) >> Proceeding label file reading for [ubm_115] <<
+(SegTools) >> Proceeding label file reading for [ubm_116] <<
+(SegTools) >> Proceeding label file reading for [ubm_117] <<
+(SegTools) >> Proceeding label file reading for [ubm_118] <<
+(SegTools) >> Proceeding label file reading for [ubm_119] <<
+(SegTools) >> Proceeding label file reading for [ubm_11] <<
+(SegTools) >> Proceeding label file reading for [ubm_120] <<
+(SegTools) >> Proceeding label file reading for [ubm_121] <<
+(SegTools) >> Proceeding label file reading for [ubm_122] <<
+(SegTools) >> Proceeding label file reading for [ubm_123] <<
+(SegTools) >> Proceeding label file reading for [ubm_124] <<
+(SegTools) >> Proceeding label file reading for [ubm_125] <<
+(SegTools) >> Proceeding label file reading for [ubm_126] <<
+(SegTools) >> Proceeding label file reading for [ubm_127] <<
+(SegTools) >> Proceeding label file reading for [ubm_128] <<
+(SegTools) >> Proceeding label file reading for [ubm_129] <<
+(SegTools) >> Proceeding label file reading for [ubm_12] <<
+(SegTools) >> Proceeding label file reading for [ubm_130] <<
+(SegTools) >> Proceeding label file reading for [ubm_131] <<
+(SegTools) >> Proceeding label file reading for [ubm_132] <<
+(SegTools) >> Proceeding label file reading for [ubm_133] <<
+(SegTools) >> Proceeding label file reading for [ubm_134] <<
+(SegTools) >> Proceeding label file reading for [ubm_135] <<
+(SegTools) >> Proceeding label file reading for [ubm_136] <<
+(SegTools) >> Proceeding label file reading for [ubm_137] <<
+(SegTools) >> Proceeding label file reading for [ubm_138] <<
+(SegTools) >> Proceeding label file reading for [ubm_139] <<
+(SegTools) >> Proceeding label file reading for [ubm_13] <<
+(SegTools) >> Proceeding label file reading for [ubm_140] <<
+(SegTools) >> Proceeding label file reading for [ubm_141] <<
+(SegTools) >> Proceeding label file reading for [ubm_142] <<
+(SegTools) >> Proceeding label file reading for [ubm_143] <<
+(SegTools) >> Proceeding label file reading for [ubm_144] <<
+(SegTools) >> Proceeding label file reading for [ubm_145] <<
+(SegTools) >> Proceeding label file reading for [ubm_146] <<
+(SegTools) >> Proceeding label file reading for [ubm_147] <<
+(SegTools) >> Proceeding label file reading for [ubm_148] <<
+(SegTools) >> Proceeding label file reading for [ubm_149] <<
+(SegTools) >> Proceeding label file reading for [ubm_14] <<
+(SegTools) >> Proceeding label file reading for [ubm_150] <<
+(SegTools) >> Proceeding label file reading for [ubm_151] <<
+(SegTools) >> Proceeding label file reading for [ubm_152] <<
+(SegTools) >> Proceeding label file reading for [ubm_153] <<
+(SegTools) >> Proceeding label file reading for [ubm_154] <<
+(SegTools) >> Proceeding label file reading for [ubm_155] <<
+(SegTools) >> Proceeding label file reading for [ubm_156] <<
+(SegTools) >> Proceeding label file reading for [ubm_157] <<
+(SegTools) >> Proceeding label file reading for [ubm_158] <<
+(SegTools) >> Proceeding label file reading for [ubm_159] <<
+(SegTools) >> Proceeding label file reading for [ubm_15] <<
+(SegTools) >> Proceeding label file reading for [ubm_160] <<
+(SegTools) >> Proceeding label file reading for [ubm_161] <<
+(SegTools) >> Proceeding label file reading for [ubm_162] <<
+(SegTools) >> Proceeding label file reading for [ubm_163] <<
+(SegTools) >> Proceeding label file reading for [ubm_164] <<
+(SegTools) >> Proceeding label file reading for [ubm_165] <<
+(SegTools) >> Proceeding label file reading for [ubm_166] <<
+(SegTools) >> Proceeding label file reading for [ubm_167] <<
+(SegTools) >> Proceeding label file reading for [ubm_168] <<
+(SegTools) >> Proceeding label file reading for [ubm_169] <<
+(SegTools) >> Proceeding label file reading for [ubm_16] <<
+(SegTools) >> Proceeding label file reading for [ubm_170] <<
+(SegTools) >> Proceeding label file reading for [ubm_171] <<
+(SegTools) >> Proceeding label file reading for [ubm_172] <<
+(SegTools) >> Proceeding label file reading for [ubm_173] <<
+(SegTools) >> Proceeding label file reading for [ubm_174] <<
+(SegTools) >> Proceeding label file reading for [ubm_175] <<
+(SegTools) >> Proceeding label file reading for [ubm_176] <<
+(SegTools) >> Proceeding label file reading for [ubm_177] <<
+(SegTools) >> Proceeding label file reading for [ubm_178] <<
+(SegTools) >> Proceeding label file reading for [ubm_179] <<
+(SegTools) >> Proceeding label file reading for [ubm_17] <<
+(SegTools) >> Proceeding label file reading for [ubm_180] <<
+(SegTools) >> Proceeding label file reading for [ubm_181] <<
+(SegTools) >> Proceeding label file reading for [ubm_182] <<
+(SegTools) >> Proceeding label file reading for [ubm_183] <<
+(SegTools) >> Proceeding label file reading for [ubm_184] <<
+(SegTools) >> Proceeding label file reading for [ubm_185] <<
+(SegTools) >> Proceeding label file reading for [ubm_186] <<
+(SegTools) >> Proceeding label file reading for [ubm_187] <<
+(SegTools) >> Proceeding label file reading for [ubm_188] <<
+(SegTools) >> Proceeding label file reading for [ubm_189] <<
+(SegTools) >> Proceeding label file reading for [ubm_18] <<
+(SegTools) >> Proceeding label file reading for [ubm_190] <<
+(SegTools) >> Proceeding label file reading for [ubm_191] <<
+(SegTools) >> Proceeding label file reading for [ubm_192] <<
+(SegTools) >> Proceeding label file reading for [ubm_193] <<
+(SegTools) >> Proceeding label file reading for [ubm_194] <<
+(SegTools) >> Proceeding label file reading for [ubm_195] <<
+(SegTools) >> Proceeding label file reading for [ubm_196] <<
+(SegTools) >> Proceeding label file reading for [ubm_197] <<
+(SegTools) >> Proceeding label file reading for [ubm_198] <<
+(SegTools) >> Proceeding label file reading for [ubm_199] <<
+(SegTools) >> Proceeding label file reading for [ubm_19] <<
+(SegTools) >> Proceeding label file reading for [ubm_1] <<
+(SegTools) >> Proceeding label file reading for [ubm_200] <<
+(SegTools) >> Proceeding label file reading for [ubm_201] <<
+(SegTools) >> Proceeding label file reading for [ubm_202] <<
+(SegTools) >> Proceeding label file reading for [ubm_203] <<
+(SegTools) >> Proceeding label file reading for [ubm_204] <<
+(SegTools) >> Proceeding label file reading for [ubm_205] <<
+(SegTools) >> Proceeding label file reading for [ubm_206] <<
+(SegTools) >> Proceeding label file reading for [ubm_207] <<
+(SegTools) >> Proceeding label file reading for [ubm_208] <<
+(SegTools) >> Proceeding label file reading for [ubm_209] <<
+(SegTools) >> Proceeding label file reading for [ubm_20] <<
+(SegTools) >> Proceeding label file reading for [ubm_210] <<
+(SegTools) >> Proceeding label file reading for [ubm_211] <<
+(SegTools) >> Proceeding label file reading for [ubm_212] <<
+(SegTools) >> Proceeding label file reading for [ubm_213] <<
+(SegTools) >> Proceeding label file reading for [ubm_214] <<
+(SegTools) >> Proceeding label file reading for [ubm_215] <<
+(SegTools) >> Proceeding label file reading for [ubm_216] <<
+(SegTools) >> Proceeding label file reading for [ubm_217] <<
+(SegTools) >> Proceeding label file reading for [ubm_218] <<
+(SegTools) >> Proceeding label file reading for [ubm_219] <<
+(SegTools) >> Proceeding label file reading for [ubm_21] <<
+(SegTools) >> Proceeding label file reading for [ubm_220] <<
+(SegTools) >> Proceeding label file reading for [ubm_221] <<
+(SegTools) >> Proceeding label file reading for [ubm_222] <<
+(SegTools) >> Proceeding label file reading for [ubm_223] <<
+(SegTools) >> Proceeding label file reading for [ubm_224] <<
+(SegTools) >> Proceeding label file reading for [ubm_225] <<
+(SegTools) >> Proceeding label file reading for [ubm_226] <<
+(SegTools) >> Proceeding label file reading for [ubm_227] <<
+(SegTools) >> Proceeding label file reading for [ubm_228] <<
+(SegTools) >> Proceeding label file reading for [ubm_229] <<
+(SegTools) >> Proceeding label file reading for [ubm_22] <<
+(SegTools) >> Proceeding label file reading for [ubm_230] <<
+(SegTools) >> Proceeding label file reading for [ubm_231] <<
+(SegTools) >> Proceeding label file reading for [ubm_232] <<
+(SegTools) >> Proceeding label file reading for [ubm_233] <<
+(SegTools) >> Proceeding label file reading for [ubm_234] <<
+(SegTools) >> Proceeding label file reading for [ubm_235] <<
+(SegTools) >> Proceeding label file reading for [ubm_236] <<
+(SegTools) >> Proceeding label file reading for [ubm_237] <<
+(SegTools) >> Proceeding label file reading for [ubm_238] <<
+(SegTools) >> Proceeding label file reading for [ubm_239] <<
+(SegTools) >> Proceeding label file reading for [ubm_23] <<
+(SegTools) >> Proceeding label file reading for [ubm_240] <<
+(SegTools) >> Proceeding label file reading for [ubm_241] <<
+(SegTools) >> Proceeding label file reading for [ubm_242] <<
+(SegTools) >> Proceeding label file reading for [ubm_243] <<
+(SegTools) >> Proceeding label file reading for [ubm_244] <<
+(SegTools) >> Proceeding label file reading for [ubm_245] <<
+(SegTools) >> Proceeding label file reading for [ubm_246] <<
+(SegTools) >> Proceeding label file reading for [ubm_247] <<
+(SegTools) >> Proceeding label file reading for [ubm_248] <<
+(SegTools) >> Proceeding label file reading for [ubm_249] <<
+(SegTools) >> Proceeding label file reading for [ubm_24] <<
+(SegTools) >> Proceeding label file reading for [ubm_250] <<
+(SegTools) >> Proceeding label file reading for [ubm_251] <<
+(SegTools) >> Proceeding label file reading for [ubm_252] <<
+(SegTools) >> Proceeding label file reading for [ubm_253] <<
+(SegTools) >> Proceeding label file reading for [ubm_254] <<
+(SegTools) >> Proceeding label file reading for [ubm_255] <<
+(SegTools) >> Proceeding label file reading for [ubm_256] <<
+(SegTools) >> Proceeding label file reading for [ubm_257] <<
+(SegTools) >> Proceeding label file reading for [ubm_258] <<
+(SegTools) >> Proceeding label file reading for [ubm_259] <<
+(SegTools) >> Proceeding label file reading for [ubm_25] <<
+(SegTools) >> Proceeding label file reading for [ubm_260] <<
+(SegTools) >> Proceeding label file reading for [ubm_261] <<
+(SegTools) >> Proceeding label file reading for [ubm_262] <<
+(SegTools) >> Proceeding label file reading for [ubm_263] <<
+(SegTools) >> Proceeding label file reading for [ubm_264] <<
+(SegTools) >> Proceeding label file reading for [ubm_265] <<
+(SegTools) >> Proceeding label file reading for [ubm_266] <<
+(SegTools) >> Proceeding label file reading for [ubm_267] <<
+(SegTools) >> Proceeding label file reading for [ubm_268] <<
+(SegTools) >> Proceeding label file reading for [ubm_269] <<
+(SegTools) >> Proceeding label file reading for [ubm_26] <<
+(SegTools) >> Proceeding label file reading for [ubm_270] <<
+(SegTools) >> Proceeding label file reading for [ubm_271] <<
+(SegTools) >> Proceeding label file reading for [ubm_272] <<
+(SegTools) >> Proceeding label file reading for [ubm_273] <<
+(SegTools) >> Proceeding label file reading for [ubm_274] <<
+(SegTools) >> Proceeding label file reading for [ubm_275] <<
+(SegTools) >> Proceeding label file reading for [ubm_276] <<
+(SegTools) >> Proceeding label file reading for [ubm_277] <<
+(SegTools) >> Proceeding label file reading for [ubm_278] <<
+(SegTools) >> Proceeding label file reading for [ubm_279] <<
+(SegTools) >> Proceeding label file reading for [ubm_27] <<
+(SegTools) >> Proceeding label file reading for [ubm_280] <<
+(SegTools) >> Proceeding label file reading for [ubm_281] <<
+(SegTools) >> Proceeding label file reading for [ubm_282] <<
+(SegTools) >> Proceeding label file reading for [ubm_283] <<
+(SegTools) >> Proceeding label file reading for [ubm_284] <<
+(SegTools) >> Proceeding label file reading for [ubm_285] <<
+(SegTools) >> Proceeding label file reading for [ubm_286] <<
+(SegTools) >> Proceeding label file reading for [ubm_287] <<
+(SegTools) >> Proceeding label file reading for [ubm_288] <<
+(SegTools) >> Proceeding label file reading for [ubm_289] <<
+(SegTools) >> Proceeding label file reading for [ubm_28] <<
+(SegTools) >> Proceeding label file reading for [ubm_290] <<
+(SegTools) >> Proceeding label file reading for [ubm_291] <<
+(SegTools) >> Proceeding label file reading for [ubm_292] <<
+(SegTools) >> Proceeding label file reading for [ubm_293] <<
+(SegTools) >> Proceeding label file reading for [ubm_294] <<
+(SegTools) >> Proceeding label file reading for [ubm_295] <<
+(SegTools) >> Proceeding label file reading for [ubm_296] <<
+(SegTools) >> Proceeding label file reading for [ubm_297] <<
+(SegTools) >> Proceeding label file reading for [ubm_298] <<
+(SegTools) >> Proceeding label file reading for [ubm_299] <<
+(SegTools) >> Proceeding label file reading for [ubm_29] <<
+(SegTools) >> Proceeding label file reading for [ubm_2] <<
+(SegTools) >> Proceeding label file reading for [ubm_300] <<
+(SegTools) >> Proceeding label file reading for [ubm_301] <<
+(SegTools) >> Proceeding label file reading for [ubm_302] <<
+(SegTools) >> Proceeding label file reading for [ubm_303] <<
+(SegTools) >> Proceeding label file reading for [ubm_304] <<
+(SegTools) >> Proceeding label file reading for [ubm_305] <<
+(SegTools) >> Proceeding label file reading for [ubm_306] <<
+(SegTools) >> Proceeding label file reading for [ubm_307] <<
+(SegTools) >> Proceeding label file reading for [ubm_308] <<
+(SegTools) >> Proceeding label file reading for [ubm_309] <<
+(SegTools) >> Proceeding label file reading for [ubm_30] <<
+(SegTools) >> Proceeding label file reading for [ubm_310] <<
+(SegTools) >> Proceeding label file reading for [ubm_311] <<
+(SegTools) >> Proceeding label file reading for [ubm_312] <<
+(SegTools) >> Proceeding label file reading for [ubm_313] <<
+(SegTools) >> Proceeding label file reading for [ubm_314] <<
+(SegTools) >> Proceeding label file reading for [ubm_315] <<
+(SegTools) >> Proceeding label file reading for [ubm_316] <<
+(SegTools) >> Proceeding label file reading for [ubm_317] <<
+(SegTools) >> Proceeding label file reading for [ubm_318] <<
+(SegTools) >> Proceeding label file reading for [ubm_319] <<
+(SegTools) >> Proceeding label file reading for [ubm_31] <<
+(SegTools) >> Proceeding label file reading for [ubm_320] <<
+(SegTools) >> Proceeding label file reading for [ubm_321] <<
+(SegTools) >> Proceeding label file reading for [ubm_322] <<
+(SegTools) >> Proceeding label file reading for [ubm_323] <<
+(SegTools) >> Proceeding label file reading for [ubm_324] <<
+(SegTools) >> Proceeding label file reading for [ubm_325] <<
+(SegTools) >> Proceeding label file reading for [ubm_326] <<
+(SegTools) >> Proceeding label file reading for [ubm_327] <<
+(SegTools) >> Proceeding label file reading for [ubm_328] <<
+(SegTools) >> Proceeding label file reading for [ubm_329] <<
+(SegTools) >> Proceeding label file reading for [ubm_32] <<
+(SegTools) >> Proceeding label file reading for [ubm_330] <<
+(SegTools) >> Proceeding label file reading for [ubm_331] <<
+(SegTools) >> Proceeding label file reading for [ubm_332] <<
+(SegTools) >> Proceeding label file reading for [ubm_333] <<
+(SegTools) >> Proceeding label file reading for [ubm_334] <<
+(SegTools) >> Proceeding label file reading for [ubm_335] <<
+(SegTools) >> Proceeding label file reading for [ubm_336] <<
+(SegTools) >> Proceeding label file reading for [ubm_337] <<
+(SegTools) >> Proceeding label file reading for [ubm_338] <<
+(SegTools) >> Proceeding label file reading for [ubm_339] <<
+(SegTools) >> Proceeding label file reading for [ubm_33] <<
+(SegTools) >> Proceeding label file reading for [ubm_340] <<
+(SegTools) >> Proceeding label file reading for [ubm_341] <<
+(SegTools) >> Proceeding label file reading for [ubm_342] <<
+(SegTools) >> Proceeding label file reading for [ubm_343] <<
+(SegTools) >> Proceeding label file reading for [ubm_344] <<
+(SegTools) >> Proceeding label file reading for [ubm_345] <<
+(SegTools) >> Proceeding label file reading for [ubm_346] <<
+(SegTools) >> Proceeding label file reading for [ubm_347] <<
+(SegTools) >> Proceeding label file reading for [ubm_348] <<
+(SegTools) >> Proceeding label file reading for [ubm_349] <<
+(SegTools) >> Proceeding label file reading for [ubm_34] <<
+(SegTools) >> Proceeding label file reading for [ubm_350] <<
+(SegTools) >> Proceeding label file reading for [ubm_351] <<
+(SegTools) >> Proceeding label file reading for [ubm_352] <<
+(SegTools) >> Proceeding label file reading for [ubm_353] <<
+(SegTools) >> Proceeding label file reading for [ubm_354] <<
+(SegTools) >> Proceeding label file reading for [ubm_355] <<
+(SegTools) >> Proceeding label file reading for [ubm_356] <<
+(SegTools) >> Proceeding label file reading for [ubm_357] <<
+(SegTools) >> Proceeding label file reading for [ubm_358] <<
+(SegTools) >> Proceeding label file reading for [ubm_359] <<
+(SegTools) >> Proceeding label file reading for [ubm_35] <<
+(SegTools) >> Proceeding label file reading for [ubm_360] <<
+(SegTools) >> Proceeding label file reading for [ubm_361] <<
+(SegTools) >> Proceeding label file reading for [ubm_362] <<
+(SegTools) >> Proceeding label file reading for [ubm_363] <<
+(SegTools) >> Proceeding label file reading for [ubm_364] <<
+(SegTools) >> Proceeding label file reading for [ubm_365] <<
+(SegTools) >> Proceeding label file reading for [ubm_366] <<
+(SegTools) >> Proceeding label file reading for [ubm_367] <<
+(SegTools) >> Proceeding label file reading for [ubm_368] <<
+(SegTools) >> Proceeding label file reading for [ubm_369] <<
+(SegTools) >> Proceeding label file reading for [ubm_36] <<
+(SegTools) >> Proceeding label file reading for [ubm_370] <<
+(SegTools) >> Proceeding label file reading for [ubm_371] <<
+(SegTools) >> Proceeding label file reading for [ubm_372] <<
+(SegTools) >> Proceeding label file reading for [ubm_373] <<
+(SegTools) >> Proceeding label file reading for [ubm_374] <<
+(SegTools) >> Proceeding label file reading for [ubm_375] <<
+(SegTools) >> Proceeding label file reading for [ubm_376] <<
+(SegTools) >> Proceeding label file reading for [ubm_377] <<
+(SegTools) >> Proceeding label file reading for [ubm_378] <<
+(SegTools) >> Proceeding label file reading for [ubm_379] <<
+(SegTools) >> Proceeding label file reading for [ubm_37] <<
+(SegTools) >> Proceeding label file reading for [ubm_380] <<
+(SegTools) >> Proceeding label file reading for [ubm_381] <<
+(SegTools) >> Proceeding label file reading for [ubm_382] <<
+(SegTools) >> Proceeding label file reading for [ubm_383] <<
+(SegTools) >> Proceeding label file reading for [ubm_384] <<
+(SegTools) >> Proceeding label file reading for [ubm_385] <<
+(SegTools) >> Proceeding label file reading for [ubm_386] <<
+(SegTools) >> Proceeding label file reading for [ubm_387] <<
+(SegTools) >> Proceeding label file reading for [ubm_388] <<
+(SegTools) >> Proceeding label file reading for [ubm_389] <<
+(SegTools) >> Proceeding label file reading for [ubm_38] <<
+(SegTools) >> Proceeding label file reading for [ubm_390] <<
+(SegTools) >> Proceeding label file reading for [ubm_391] <<
+(SegTools) >> Proceeding label file reading for [ubm_392] <<
+(SegTools) >> Proceeding label file reading for [ubm_393] <<
+(SegTools) >> Proceeding label file reading for [ubm_394] <<
+(SegTools) >> Proceeding label file reading for [ubm_395] <<
+(SegTools) >> Proceeding label file reading for [ubm_396] <<
+(SegTools) >> Proceeding label file reading for [ubm_397] <<
+(SegTools) >> Proceeding label file reading for [ubm_398] <<
+(SegTools) >> Proceeding label file reading for [ubm_399] <<
+(SegTools) >> Proceeding label file reading for [ubm_39] <<
+(SegTools) >> Proceeding label file reading for [ubm_3] <<
+(SegTools) >> Proceeding label file reading for [ubm_400] <<
+(SegTools) >> Proceeding label file reading for [ubm_401] <<
+(SegTools) >> Proceeding label file reading for [ubm_402] <<
+(SegTools) >> Proceeding label file reading for [ubm_403] <<
+(SegTools) >> Proceeding label file reading for [ubm_404] <<
+(SegTools) >> Proceeding label file reading for [ubm_405] <<
+(SegTools) >> Proceeding label file reading for [ubm_406] <<
+(SegTools) >> Proceeding label file reading for [ubm_407] <<
+(SegTools) >> Proceeding label file reading for [ubm_408] <<
+(SegTools) >> Proceeding label file reading for [ubm_409] <<
+(SegTools) >> Proceeding label file reading for [ubm_40] <<
+(SegTools) >> Proceeding label file reading for [ubm_410] <<
+(SegTools) >> Proceeding label file reading for [ubm_411] <<
+(SegTools) >> Proceeding label file reading for [ubm_412] <<
+(SegTools) >> Proceeding label file reading for [ubm_413] <<
+(SegTools) >> Proceeding label file reading for [ubm_414] <<
+(SegTools) >> Proceeding label file reading for [ubm_415] <<
+(SegTools) >> Proceeding label file reading for [ubm_416] <<
+(SegTools) >> Proceeding label file reading for [ubm_417] <<
+(SegTools) >> Proceeding label file reading for [ubm_418] <<
+(SegTools) >> Proceeding label file reading for [ubm_419] <<
+(SegTools) >> Proceeding label file reading for [ubm_41] <<
+(SegTools) >> Proceeding label file reading for [ubm_420] <<
+(SegTools) >> Proceeding label file reading for [ubm_421] <<
+(SegTools) >> Proceeding label file reading for [ubm_422] <<
+(SegTools) >> Proceeding label file reading for [ubm_423] <<
+(SegTools) >> Proceeding label file reading for [ubm_424] <<
+(SegTools) >> Proceeding label file reading for [ubm_425] <<
+(SegTools) >> Proceeding label file reading for [ubm_426] <<
+(SegTools) >> Proceeding label file reading for [ubm_427] <<
+(SegTools) >> Proceeding label file reading for [ubm_428] <<
+(SegTools) >> Proceeding label file reading for [ubm_429] <<
+(SegTools) >> Proceeding label file reading for [ubm_42] <<
+(SegTools) >> Proceeding label file reading for [ubm_430] <<
+(SegTools) >> Proceeding label file reading for [ubm_431] <<
+(SegTools) >> Proceeding label file reading for [ubm_432] <<
+(SegTools) >> Proceeding label file reading for [ubm_433] <<
+(SegTools) >> Proceeding label file reading for [ubm_434] <<
+(SegTools) >> Proceeding label file reading for [ubm_435] <<
+(SegTools) >> Proceeding label file reading for [ubm_436] <<
+(SegTools) >> Proceeding label file reading for [ubm_437] <<
+(SegTools) >> Proceeding label file reading for [ubm_438] <<
+(SegTools) >> Proceeding label file reading for [ubm_439] <<
+(SegTools) >> Proceeding label file reading for [ubm_43] <<
+(SegTools) >> Proceeding label file reading for [ubm_440] <<
+(SegTools) >> Proceeding label file reading for [ubm_441] <<
+(SegTools) >> Proceeding label file reading for [ubm_442] <<
+(SegTools) >> Proceeding label file reading for [ubm_443] <<
+(SegTools) >> Proceeding label file reading for [ubm_444] <<
+(SegTools) >> Proceeding label file reading for [ubm_445] <<
+(SegTools) >> Proceeding label file reading for [ubm_446] <<
+(SegTools) >> Proceeding label file reading for [ubm_447] <<
+(SegTools) >> Proceeding label file reading for [ubm_448] <<
+(SegTools) >> Proceeding label file reading for [ubm_449] <<
+(SegTools) >> Proceeding label file reading for [ubm_44] <<
+(SegTools) >> Proceeding label file reading for [ubm_450] <<
+(SegTools) >> Proceeding label file reading for [ubm_451] <<
+(SegTools) >> Proceeding label file reading for [ubm_452] <<
+(SegTools) >> Proceeding label file reading for [ubm_453] <<
+(SegTools) >> Proceeding label file reading for [ubm_454] <<
+(SegTools) >> Proceeding label file reading for [ubm_455] <<
+(SegTools) >> Proceeding label file reading for [ubm_456] <<
+(SegTools) >> Proceeding label file reading for [ubm_457] <<
+(SegTools) >> Proceeding label file reading for [ubm_458] <<
+(SegTools) >> Proceeding label file reading for [ubm_459] <<
+(SegTools) >> Proceeding label file reading for [ubm_45] <<
+(SegTools) >> Proceeding label file reading for [ubm_460] <<
+(SegTools) >> Proceeding label file reading for [ubm_461] <<
+(SegTools) >> Proceeding label file reading for [ubm_462] <<
+(SegTools) >> Proceeding label file reading for [ubm_463] <<
+(SegTools) >> Proceeding label file reading for [ubm_464] <<
+(SegTools) >> Proceeding label file reading for [ubm_465] <<
+(SegTools) >> Proceeding label file reading for [ubm_466] <<
+(SegTools) >> Proceeding label file reading for [ubm_467] <<
+(SegTools) >> Proceeding label file reading for [ubm_468] <<
+(SegTools) >> Proceeding label file reading for [ubm_469] <<
+(SegTools) >> Proceeding label file reading for [ubm_46] <<
+(SegTools) >> Proceeding label file reading for [ubm_470] <<
+(SegTools) >> Proceeding label file reading for [ubm_471] <<
+(SegTools) >> Proceeding label file reading for [ubm_472] <<
+(SegTools) >> Proceeding label file reading for [ubm_473] <<
+(SegTools) >> Proceeding label file reading for [ubm_474] <<
+(SegTools) >> Proceeding label file reading for [ubm_475] <<
+(SegTools) >> Proceeding label file reading for [ubm_476] <<
+(SegTools) >> Proceeding label file reading for [ubm_477] <<
+(SegTools) >> Proceeding label file reading for [ubm_478] <<
+(SegTools) >> Proceeding label file reading for [ubm_479] <<
+(SegTools) >> Proceeding label file reading for [ubm_47] <<
+(SegTools) >> Proceeding label file reading for [ubm_480] <<
+(SegTools) >> Proceeding label file reading for [ubm_481] <<
+(SegTools) >> Proceeding label file reading for [ubm_482] <<
+(SegTools) >> Proceeding label file reading for [ubm_483] <<
+(SegTools) >> Proceeding label file reading for [ubm_484] <<
+(SegTools) >> Proceeding label file reading for [ubm_485] <<
+(SegTools) >> Proceeding label file reading for [ubm_486] <<
+(SegTools) >> Proceeding label file reading for [ubm_487] <<
+(SegTools) >> Proceeding label file reading for [ubm_488] <<
+(SegTools) >> Proceeding label file reading for [ubm_489] <<
+(SegTools) >> Proceeding label file reading for [ubm_48] <<
+(SegTools) >> Proceeding label file reading for [ubm_490] <<
+(SegTools) >> Proceeding label file reading for [ubm_491] <<
+(SegTools) >> Proceeding label file reading for [ubm_492] <<
+(SegTools) >> Proceeding label file reading for [ubm_493] <<
+(SegTools) >> Proceeding label file reading for [ubm_494] <<
+(SegTools) >> Proceeding label file reading for [ubm_495] <<
+(SegTools) >> Proceeding label file reading for [ubm_496] <<
+(SegTools) >> Proceeding label file reading for [ubm_497] <<
+(SegTools) >> Proceeding label file reading for [ubm_498] <<
+(SegTools) >> Proceeding label file reading for [ubm_499] <<
+(SegTools) >> Proceeding label file reading for [ubm_49] <<
+(SegTools) >> Proceeding label file reading for [ubm_4] <<
+(SegTools) >> Proceeding label file reading for [ubm_500] <<
+(SegTools) >> Proceeding label file reading for [ubm_501] <<
+(SegTools) >> Proceeding label file reading for [ubm_502] <<
+(SegTools) >> Proceeding label file reading for [ubm_503] <<
+(SegTools) >> Proceeding label file reading for [ubm_504] <<
+(SegTools) >> Proceeding label file reading for [ubm_505] <<
+(SegTools) >> Proceeding label file reading for [ubm_506] <<
+(SegTools) >> Proceeding label file reading for [ubm_507] <<
+(SegTools) >> Proceeding label file reading for [ubm_508] <<
+(SegTools) >> Proceeding label file reading for [ubm_509] <<
+(SegTools) >> Proceeding label file reading for [ubm_50] <<
+(SegTools) >> Proceeding label file reading for [ubm_510] <<
+(SegTools) >> Proceeding label file reading for [ubm_511] <<
+(SegTools) >> Proceeding label file reading for [ubm_512] <<
+(SegTools) >> Proceeding label file reading for [ubm_513] <<
+(SegTools) >> Proceeding label file reading for [ubm_514] <<
+(SegTools) >> Proceeding label file reading for [ubm_515] <<
+(SegTools) >> Proceeding label file reading for [ubm_516] <<
+(SegTools) >> Proceeding label file reading for [ubm_517] <<
+(SegTools) >> Proceeding label file reading for [ubm_518] <<
+(SegTools) >> Proceeding label file reading for [ubm_519] <<
+(SegTools) >> Proceeding label file reading for [ubm_51] <<
+(SegTools) >> Proceeding label file reading for [ubm_520] <<
+(SegTools) >> Proceeding label file reading for [ubm_521] <<
+(SegTools) >> Proceeding label file reading for [ubm_522] <<
+(SegTools) >> Proceeding label file reading for [ubm_523] <<
+(SegTools) >> Proceeding label file reading for [ubm_524] <<
+(SegTools) >> Proceeding label file reading for [ubm_525] <<
+(SegTools) >> Proceeding label file reading for [ubm_526] <<
+(SegTools) >> Proceeding label file reading for [ubm_527] <<
+(SegTools) >> Proceeding label file reading for [ubm_528] <<
+(SegTools) >> Proceeding label file reading for [ubm_529] <<
+(SegTools) >> Proceeding label file reading for [ubm_52] <<
+(SegTools) >> Proceeding label file reading for [ubm_530] <<
+(SegTools) >> Proceeding label file reading for [ubm_531] <<
+(SegTools) >> Proceeding label file reading for [ubm_532] <<
+(SegTools) >> Proceeding label file reading for [ubm_533] <<
+(SegTools) >> Proceeding label file reading for [ubm_534] <<
+(SegTools) >> Proceeding label file reading for [ubm_535] <<
+(SegTools) >> Proceeding label file reading for [ubm_536] <<
+(SegTools) >> Proceeding label file reading for [ubm_537] <<
+(SegTools) >> Proceeding label file reading for [ubm_538] <<
+(SegTools) >> Proceeding label file reading for [ubm_539] <<
+(SegTools) >> Proceeding label file reading for [ubm_53] <<
+(SegTools) >> Proceeding label file reading for [ubm_540] <<
+(SegTools) >> Proceeding label file reading for [ubm_541] <<
+(SegTools) >> Proceeding label file reading for [ubm_542] <<
+(SegTools) >> Proceeding label file reading for [ubm_543] <<
+(SegTools) >> Proceeding label file reading for [ubm_544] <<
+(SegTools) >> Proceeding label file reading for [ubm_545] <<
+(SegTools) >> Proceeding label file reading for [ubm_546] <<
+(SegTools) >> Proceeding label file reading for [ubm_547] <<
+(SegTools) >> Proceeding label file reading for [ubm_548] <<
+(SegTools) >> Proceeding label file reading for [ubm_549] <<
+(SegTools) >> Proceeding label file reading for [ubm_54] <<
+(SegTools) >> Proceeding label file reading for [ubm_550] <<
+(SegTools) >> Proceeding label file reading for [ubm_551] <<
+(SegTools) >> Proceeding label file reading for [ubm_552] <<
+(SegTools) >> Proceeding label file reading for [ubm_553] <<
+(SegTools) >> Proceeding label file reading for [ubm_554] <<
+(SegTools) >> Proceeding label file reading for [ubm_555] <<
+(SegTools) >> Proceeding label file reading for [ubm_556] <<
+(SegTools) >> Proceeding label file reading for [ubm_557] <<
+(SegTools) >> Proceeding label file reading for [ubm_558] <<
+(SegTools) >> Proceeding label file reading for [ubm_559] <<
+(SegTools) >> Proceeding label file reading for [ubm_55] <<
+(SegTools) >> Proceeding label file reading for [ubm_560] <<
+(SegTools) >> Proceeding label file reading for [ubm_561] <<
+(SegTools) >> Proceeding label file reading for [ubm_562] <<
+(SegTools) >> Proceeding label file reading for [ubm_563] <<
+(SegTools) >> Proceeding label file reading for [ubm_564] <<
+(SegTools) >> Proceeding label file reading for [ubm_565] <<
+(SegTools) >> Proceeding label file reading for [ubm_566] <<
+(SegTools) >> Proceeding label file reading for [ubm_567] <<
+(SegTools) >> Proceeding label file reading for [ubm_568] <<
+(SegTools) >> Proceeding label file reading for [ubm_569] <<
+(SegTools) >> Proceeding label file reading for [ubm_56] <<
+(SegTools) >> Proceeding label file reading for [ubm_570] <<
+(SegTools) >> Proceeding label file reading for [ubm_571] <<
+(SegTools) >> Proceeding label file reading for [ubm_572] <<
+(SegTools) >> Proceeding label file reading for [ubm_573] <<
+(SegTools) >> Proceeding label file reading for [ubm_574] <<
+(SegTools) >> Proceeding label file reading for [ubm_575] <<
+(SegTools) >> Proceeding label file reading for [ubm_576] <<
+(SegTools) >> Proceeding label file reading for [ubm_577] <<
+(SegTools) >> Proceeding label file reading for [ubm_578] <<
+(SegTools) >> Proceeding label file reading for [ubm_579] <<
+(SegTools) >> Proceeding label file reading for [ubm_57] <<
+(SegTools) >> Proceeding label file reading for [ubm_580] <<
+(SegTools) >> Proceeding label file reading for [ubm_581] <<
+(SegTools) >> Proceeding label file reading for [ubm_582] <<
+(SegTools) >> Proceeding label file reading for [ubm_583] <<
+(SegTools) >> Proceeding label file reading for [ubm_584] <<
+(SegTools) >> Proceeding label file reading for [ubm_585] <<
+(SegTools) >> Proceeding label file reading for [ubm_586] <<
+(SegTools) >> Proceeding label file reading for [ubm_587] <<
+(SegTools) >> Proceeding label file reading for [ubm_588] <<
+(SegTools) >> Proceeding label file reading for [ubm_589] <<
+(SegTools) >> Proceeding label file reading for [ubm_58] <<
+(SegTools) >> Proceeding label file reading for [ubm_590] <<
+(SegTools) >> Proceeding label file reading for [ubm_591] <<
+(SegTools) >> Proceeding label file reading for [ubm_592] <<
+(SegTools) >> Proceeding label file reading for [ubm_593] <<
+(SegTools) >> Proceeding label file reading for [ubm_594] <<
+(SegTools) >> Proceeding label file reading for [ubm_595] <<
+(SegTools) >> Proceeding label file reading for [ubm_596] <<
+(SegTools) >> Proceeding label file reading for [ubm_597] <<
+(SegTools) >> Proceeding label file reading for [ubm_598] <<
+(SegTools) >> Proceeding label file reading for [ubm_599] <<
+(SegTools) >> Proceeding label file reading for [ubm_59] <<
+(SegTools) >> Proceeding label file reading for [ubm_5] <<
+(SegTools) >> Proceeding label file reading for [ubm_600] <<
+(SegTools) >> Proceeding label file reading for [ubm_601] <<
+(SegTools) >> Proceeding label file reading for [ubm_602] <<
+(SegTools) >> Proceeding label file reading for [ubm_603] <<
+(SegTools) >> Proceeding label file reading for [ubm_604] <<
+(SegTools) >> Proceeding label file reading for [ubm_605] <<
+(SegTools) >> Proceeding label file reading for [ubm_606] <<
+(SegTools) >> Proceeding label file reading for [ubm_607] <<
+(SegTools) >> Proceeding label file reading for [ubm_608] <<
+(SegTools) >> Proceeding label file reading for [ubm_609] <<
+(SegTools) >> Proceeding label file reading for [ubm_60] <<
+(SegTools) >> Proceeding label file reading for [ubm_610] <<
+(SegTools) >> Proceeding label file reading for [ubm_611] <<
+(SegTools) >> Proceeding label file reading for [ubm_612] <<
+(SegTools) >> Proceeding label file reading for [ubm_613] <<
+(SegTools) >> Proceeding label file reading for [ubm_614] <<
+(SegTools) >> Proceeding label file reading for [ubm_615] <<
+(SegTools) >> Proceeding label file reading for [ubm_616] <<
+(SegTools) >> Proceeding label file reading for [ubm_617] <<
+(SegTools) >> Proceeding label file reading for [ubm_618] <<
+(SegTools) >> Proceeding label file reading for [ubm_619] <<
+(SegTools) >> Proceeding label file reading for [ubm_61] <<
+(SegTools) >> Proceeding label file reading for [ubm_620] <<
+(SegTools) >> Proceeding label file reading for [ubm_621] <<
+(SegTools) >> Proceeding label file reading for [ubm_622] <<
+(SegTools) >> Proceeding label file reading for [ubm_623] <<
+(SegTools) >> Proceeding label file reading for [ubm_624] <<
+(SegTools) >> Proceeding label file reading for [ubm_625] <<
+(SegTools) >> Proceeding label file reading for [ubm_626] <<
+(SegTools) >> Proceeding label file reading for [ubm_627] <<
+(SegTools) >> Proceeding label file reading for [ubm_628] <<
+(SegTools) >> Proceeding label file reading for [ubm_629] <<
+(SegTools) >> Proceeding label file reading for [ubm_62] <<
+(SegTools) >> Proceeding label file reading for [ubm_630] <<
+(SegTools) >> Proceeding label file reading for [ubm_631] <<
+(SegTools) >> Proceeding label file reading for [ubm_632] <<
+(SegTools) >> Proceeding label file reading for [ubm_633] <<
+(SegTools) >> Proceeding label file reading for [ubm_634] <<
+(SegTools) >> Proceeding label file reading for [ubm_635] <<
+(SegTools) >> Proceeding label file reading for [ubm_636] <<
+(SegTools) >> Proceeding label file reading for [ubm_637] <<
+(SegTools) >> Proceeding label file reading for [ubm_638] <<
+(SegTools) >> Proceeding label file reading for [ubm_639] <<
+(SegTools) >> Proceeding label file reading for [ubm_63] <<
+(SegTools) >> Proceeding label file reading for [ubm_640] <<
+(SegTools) >> Proceeding label file reading for [ubm_641] <<
+(SegTools) >> Proceeding label file reading for [ubm_642] <<
+(SegTools) >> Proceeding label file reading for [ubm_643] <<
+(SegTools) >> Proceeding label file reading for [ubm_644] <<
+(SegTools) >> Proceeding label file reading for [ubm_645] <<
+(SegTools) >> Proceeding label file reading for [ubm_646] <<
+(SegTools) >> Proceeding label file reading for [ubm_647] <<
+(SegTools) >> Proceeding label file reading for [ubm_648] <<
+(SegTools) >> Proceeding label file reading for [ubm_649] <<
+(SegTools) >> Proceeding label file reading for [ubm_64] <<
+(SegTools) >> Proceeding label file reading for [ubm_650] <<
+(SegTools) >> Proceeding label file reading for [ubm_651] <<
+(SegTools) >> Proceeding label file reading for [ubm_652] <<
+(SegTools) >> Proceeding label file reading for [ubm_653] <<
+(SegTools) >> Proceeding label file reading for [ubm_654] <<
+(SegTools) >> Proceeding label file reading for [ubm_655] <<
+(SegTools) >> Proceeding label file reading for [ubm_656] <<
+(SegTools) >> Proceeding label file reading for [ubm_657] <<
+(SegTools) >> Proceeding label file reading for [ubm_658] <<
+(SegTools) >> Proceeding label file reading for [ubm_659] <<
+(SegTools) >> Proceeding label file reading for [ubm_65] <<
+(SegTools) >> Proceeding label file reading for [ubm_660] <<
+(SegTools) >> Proceeding label file reading for [ubm_661] <<
+(SegTools) >> Proceeding label file reading for [ubm_662] <<
+(SegTools) >> Proceeding label file reading for [ubm_663] <<
+(SegTools) >> Proceeding label file reading for [ubm_664] <<
+(SegTools) >> Proceeding label file reading for [ubm_665] <<
+(SegTools) >> Proceeding label file reading for [ubm_666] <<
+(SegTools) >> Proceeding label file reading for [ubm_667] <<
+(SegTools) >> Proceeding label file reading for [ubm_668] <<
+(SegTools) >> Proceeding label file reading for [ubm_669] <<
+(SegTools) >> Proceeding label file reading for [ubm_66] <<
+(SegTools) >> Proceeding label file reading for [ubm_670] <<
+(SegTools) >> Proceeding label file reading for [ubm_671] <<
+(SegTools) >> Proceeding label file reading for [ubm_672] <<
+(SegTools) >> Proceeding label file reading for [ubm_673] <<
+(SegTools) >> Proceeding label file reading for [ubm_674] <<
+(SegTools) >> Proceeding label file reading for [ubm_675] <<
+(SegTools) >> Proceeding label file reading for [ubm_676] <<
+(SegTools) >> Proceeding label file reading for [ubm_677] <<
+(SegTools) >> Proceeding label file reading for [ubm_678] <<
+(SegTools) >> Proceeding label file reading for [ubm_679] <<
+(SegTools) >> Proceeding label file reading for [ubm_67] <<
+(SegTools) >> Proceeding label file reading for [ubm_680] <<
+(SegTools) >> Proceeding label file reading for [ubm_681] <<
+(SegTools) >> Proceeding label file reading for [ubm_682] <<
+(SegTools) >> Proceeding label file reading for [ubm_683] <<
+(SegTools) >> Proceeding label file reading for [ubm_684] <<
+(SegTools) >> Proceeding label file reading for [ubm_685] <<
+(SegTools) >> Proceeding label file reading for [ubm_686] <<
+(SegTools) >> Proceeding label file reading for [ubm_687] <<
+(SegTools) >> Proceeding label file reading for [ubm_688] <<
+(SegTools) >> Proceeding label file reading for [ubm_689] <<
+(SegTools) >> Proceeding label file reading for [ubm_68] <<
+(SegTools) >> Proceeding label file reading for [ubm_690] <<
+(SegTools) >> Proceeding label file reading for [ubm_691] <<
+(SegTools) >> Proceeding label file reading for [ubm_692] <<
+(SegTools) >> Proceeding label file reading for [ubm_693] <<
+(SegTools) >> Proceeding label file reading for [ubm_694] <<
+(SegTools) >> Proceeding label file reading for [ubm_695] <<
+(SegTools) >> Proceeding label file reading for [ubm_696] <<
+(SegTools) >> Proceeding label file reading for [ubm_697] <<
+(SegTools) >> Proceeding label file reading for [ubm_698] <<
+(SegTools) >> Proceeding label file reading for [ubm_699] <<
+(SegTools) >> Proceeding label file reading for [ubm_69] <<
+(SegTools) >> Proceeding label file reading for [ubm_6] <<
+(SegTools) >> Proceeding label file reading for [ubm_700] <<
+(SegTools) >> Proceeding label file reading for [ubm_701] <<
+(SegTools) >> Proceeding label file reading for [ubm_702] <<
+(SegTools) >> Proceeding label file reading for [ubm_703] <<
+(SegTools) >> Proceeding label file reading for [ubm_704] <<
+(SegTools) >> Proceeding label file reading for [ubm_705] <<
+(SegTools) >> Proceeding label file reading for [ubm_706] <<
+(SegTools) >> Proceeding label file reading for [ubm_707] <<
+(SegTools) >> Proceeding label file reading for [ubm_708] <<
+(SegTools) >> Proceeding label file reading for [ubm_709] <<
+(SegTools) >> Proceeding label file reading for [ubm_70] <<
+(SegTools) >> Proceeding label file reading for [ubm_710] <<
+(SegTools) >> Proceeding label file reading for [ubm_711] <<
+(SegTools) >> Proceeding label file reading for [ubm_712] <<
+(SegTools) >> Proceeding label file reading for [ubm_713] <<
+(SegTools) >> Proceeding label file reading for [ubm_714] <<
+(SegTools) >> Proceeding label file reading for [ubm_715] <<
+(SegTools) >> Proceeding label file reading for [ubm_716] <<
+(SegTools) >> Proceeding label file reading for [ubm_717] <<
+(SegTools) >> Proceeding label file reading for [ubm_718] <<
+(SegTools) >> Proceeding label file reading for [ubm_719] <<
+(SegTools) >> Proceeding label file reading for [ubm_71] <<
+(SegTools) >> Proceeding label file reading for [ubm_720] <<
+(SegTools) >> Proceeding label file reading for [ubm_721] <<
+(SegTools) >> Proceeding label file reading for [ubm_722] <<
+(SegTools) >> Proceeding label file reading for [ubm_723] <<
+(SegTools) >> Proceeding label file reading for [ubm_724] <<
+(SegTools) >> Proceeding label file reading for [ubm_725] <<
+(SegTools) >> Proceeding label file reading for [ubm_726] <<
+(SegTools) >> Proceeding label file reading for [ubm_727] <<
+(SegTools) >> Proceeding label file reading for [ubm_728] <<
+(SegTools) >> Proceeding label file reading for [ubm_729] <<
+(SegTools) >> Proceeding label file reading for [ubm_72] <<
+(SegTools) >> Proceeding label file reading for [ubm_730] <<
+(SegTools) >> Proceeding label file reading for [ubm_731] <<
+(SegTools) >> Proceeding label file reading for [ubm_732] <<
+(SegTools) >> Proceeding label file reading for [ubm_733] <<
+(SegTools) >> Proceeding label file reading for [ubm_734] <<
+(SegTools) >> Proceeding label file reading for [ubm_735] <<
+(SegTools) >> Proceeding label file reading for [ubm_736] <<
+(SegTools) >> Proceeding label file reading for [ubm_737] <<
+(SegTools) >> Proceeding label file reading for [ubm_738] <<
+(SegTools) >> Proceeding label file reading for [ubm_739] <<
+(SegTools) >> Proceeding label file reading for [ubm_73] <<
+(SegTools) >> Proceeding label file reading for [ubm_740] <<
+(SegTools) >> Proceeding label file reading for [ubm_741] <<
+(SegTools) >> Proceeding label file reading for [ubm_742] <<
+(SegTools) >> Proceeding label file reading for [ubm_743] <<
+(SegTools) >> Proceeding label file reading for [ubm_744] <<
+(SegTools) >> Proceeding label file reading for [ubm_745] <<
+(SegTools) >> Proceeding label file reading for [ubm_746] <<
+(SegTools) >> Proceeding label file reading for [ubm_747] <<
+(SegTools) >> Proceeding label file reading for [ubm_748] <<
+(SegTools) >> Proceeding label file reading for [ubm_749] <<
+(SegTools) >> Proceeding label file reading for [ubm_74] <<
+(SegTools) >> Proceeding label file reading for [ubm_750] <<
+(SegTools) >> Proceeding label file reading for [ubm_751] <<
+(SegTools) >> Proceeding label file reading for [ubm_752] <<
+(SegTools) >> Proceeding label file reading for [ubm_753] <<
+(SegTools) >> Proceeding label file reading for [ubm_754] <<
+(SegTools) >> Proceeding label file reading for [ubm_755] <<
+(SegTools) >> Proceeding label file reading for [ubm_756] <<
+(SegTools) >> Proceeding label file reading for [ubm_757] <<
+(SegTools) >> Proceeding label file reading for [ubm_758] <<
+(SegTools) >> Proceeding label file reading for [ubm_759] <<
+(SegTools) >> Proceeding label file reading for [ubm_75] <<
+(SegTools) >> Proceeding label file reading for [ubm_760] <<
+(SegTools) >> Proceeding label file reading for [ubm_761] <<
+(SegTools) >> Proceeding label file reading for [ubm_762] <<
+(SegTools) >> Proceeding label file reading for [ubm_763] <<
+(SegTools) >> Proceeding label file reading for [ubm_764] <<
+(SegTools) >> Proceeding label file reading for [ubm_765] <<
+(SegTools) >> Proceeding label file reading for [ubm_766] <<
+(SegTools) >> Proceeding label file reading for [ubm_767] <<
+(SegTools) >> Proceeding label file reading for [ubm_768] <<
+(SegTools) >> Proceeding label file reading for [ubm_769] <<
+(SegTools) >> Proceeding label file reading for [ubm_76] <<
+(SegTools) >> Proceeding label file reading for [ubm_770] <<
+(SegTools) >> Proceeding label file reading for [ubm_771] <<
+(SegTools) >> Proceeding label file reading for [ubm_772] <<
+(SegTools) >> Proceeding label file reading for [ubm_773] <<
+(SegTools) >> Proceeding label file reading for [ubm_774] <<
+(SegTools) >> Proceeding label file reading for [ubm_775] <<
+(SegTools) >> Proceeding label file reading for [ubm_776] <<
+(SegTools) >> Proceeding label file reading for [ubm_777] <<
+(SegTools) >> Proceeding label file reading for [ubm_778] <<
+(SegTools) >> Proceeding label file reading for [ubm_779] <<
+(SegTools) >> Proceeding label file reading for [ubm_77] <<
+(SegTools) >> Proceeding label file reading for [ubm_780] <<
+(SegTools) >> Proceeding label file reading for [ubm_781] <<
+(SegTools) >> Proceeding label file reading for [ubm_782] <<
+(SegTools) >> Proceeding label file reading for [ubm_783] <<
+(SegTools) >> Proceeding label file reading for [ubm_784] <<
+(SegTools) >> Proceeding label file reading for [ubm_785] <<
+(SegTools) >> Proceeding label file reading for [ubm_786] <<
+(SegTools) >> Proceeding label file reading for [ubm_787] <<
+(SegTools) >> Proceeding label file reading for [ubm_788] <<
+(SegTools) >> Proceeding label file reading for [ubm_789] <<
+(SegTools) >> Proceeding label file reading for [ubm_78] <<
+(SegTools) >> Proceeding label file reading for [ubm_790] <<
+(SegTools) >> Proceeding label file reading for [ubm_791] <<
+(SegTools) >> Proceeding label file reading for [ubm_792] <<
+(SegTools) >> Proceeding label file reading for [ubm_793] <<
+(SegTools) >> Proceeding label file reading for [ubm_794] <<
+(SegTools) >> Proceeding label file reading for [ubm_795] <<
+(SegTools) >> Proceeding label file reading for [ubm_796] <<
+(SegTools) >> Proceeding label file reading for [ubm_797] <<
+(SegTools) >> Proceeding label file reading for [ubm_798] <<
+(SegTools) >> Proceeding label file reading for [ubm_799] <<
+(SegTools) >> Proceeding label file reading for [ubm_79] <<
+(SegTools) >> Proceeding label file reading for [ubm_7] <<
+(SegTools) >> Proceeding label file reading for [ubm_800] <<
+(SegTools) >> Proceeding label file reading for [ubm_801] <<
+(SegTools) >> Proceeding label file reading for [ubm_802] <<
+(SegTools) >> Proceeding label file reading for [ubm_803] <<
+(SegTools) >> Proceeding label file reading for [ubm_804] <<
+(SegTools) >> Proceeding label file reading for [ubm_805] <<
+(SegTools) >> Proceeding label file reading for [ubm_806] <<
+(SegTools) >> Proceeding label file reading for [ubm_807] <<
+(SegTools) >> Proceeding label file reading for [ubm_808] <<
+(SegTools) >> Proceeding label file reading for [ubm_809] <<
+(SegTools) >> Proceeding label file reading for [ubm_80] <<
+(SegTools) >> Proceeding label file reading for [ubm_810] <<
+(SegTools) >> Proceeding label file reading for [ubm_811] <<
+(SegTools) >> Proceeding label file reading for [ubm_812] <<
+(SegTools) >> Proceeding label file reading for [ubm_813] <<
+(SegTools) >> Proceeding label file reading for [ubm_814] <<
+(SegTools) >> Proceeding label file reading for [ubm_815] <<
+(SegTools) >> Proceeding label file reading for [ubm_816] <<
+(SegTools) >> Proceeding label file reading for [ubm_817] <<
+(SegTools) >> Proceeding label file reading for [ubm_818] <<
+(SegTools) >> Proceeding label file reading for [ubm_819] <<
+(SegTools) >> Proceeding label file reading for [ubm_81] <<
+(SegTools) >> Proceeding label file reading for [ubm_820] <<
+(SegTools) >> Proceeding label file reading for [ubm_821] <<
+(SegTools) >> Proceeding label file reading for [ubm_822] <<
+(SegTools) >> Proceeding label file reading for [ubm_823] <<
+(SegTools) >> Proceeding label file reading for [ubm_824] <<
+(SegTools) >> Proceeding label file reading for [ubm_825] <<
+(SegTools) >> Proceeding label file reading for [ubm_826] <<
+(SegTools) >> Proceeding label file reading for [ubm_827] <<
+(SegTools) >> Proceeding label file reading for [ubm_828] <<
+(SegTools) >> Proceeding label file reading for [ubm_829] <<
+(SegTools) >> Proceeding label file reading for [ubm_82] <<
+(SegTools) >> Proceeding label file reading for [ubm_830] <<
+(SegTools) >> Proceeding label file reading for [ubm_831] <<
+(SegTools) >> Proceeding label file reading for [ubm_832] <<
+(SegTools) >> Proceeding label file reading for [ubm_833] <<
+(SegTools) >> Proceeding label file reading for [ubm_834] <<
+(SegTools) >> Proceeding label file reading for [ubm_835] <<
+(SegTools) >> Proceeding label file reading for [ubm_836] <<
+(SegTools) >> Proceeding label file reading for [ubm_837] <<
+(SegTools) >> Proceeding label file reading for [ubm_838] <<
+(SegTools) >> Proceeding label file reading for [ubm_839] <<
+(SegTools) >> Proceeding label file reading for [ubm_83] <<
+(SegTools) >> Proceeding label file reading for [ubm_840] <<
+(SegTools) >> Proceeding label file reading for [ubm_841] <<
+(SegTools) >> Proceeding label file reading for [ubm_842] <<
+(SegTools) >> Proceeding label file reading for [ubm_843] <<
+(SegTools) >> Proceeding label file reading for [ubm_844] <<
+(SegTools) >> Proceeding label file reading for [ubm_845] <<
+(SegTools) >> Proceeding label file reading for [ubm_846] <<
+(SegTools) >> Proceeding label file reading for [ubm_847] <<
+(SegTools) >> Proceeding label file reading for [ubm_848] <<
+(SegTools) >> Proceeding label file reading for [ubm_849] <<
+(SegTools) >> Proceeding label file reading for [ubm_84] <<
+(SegTools) >> Proceeding label file reading for [ubm_850] <<
+(SegTools) >> Proceeding label file reading for [ubm_851] <<
+(SegTools) >> Proceeding label file reading for [ubm_852] <<
+(SegTools) >> Proceeding label file reading for [ubm_853] <<
+(SegTools) >> Proceeding label file reading for [ubm_854] <<
+(SegTools) >> Proceeding label file reading for [ubm_855] <<
+(SegTools) >> Proceeding label file reading for [ubm_856] <<
+(SegTools) >> Proceeding label file reading for [ubm_857] <<
+(SegTools) >> Proceeding label file reading for [ubm_858] <<
+(SegTools) >> Proceeding label file reading for [ubm_859] <<
+(SegTools) >> Proceeding label file reading for [ubm_85] <<
+(SegTools) >> Proceeding label file reading for [ubm_860] <<
+(SegTools) >> Proceeding label file reading for [ubm_861] <<
+(SegTools) >> Proceeding label file reading for [ubm_862] <<
+(SegTools) >> Proceeding label file reading for [ubm_863] <<
+(SegTools) >> Proceeding label file reading for [ubm_864] <<
+(SegTools) >> Proceeding label file reading for [ubm_865] <<
+(SegTools) >> Proceeding label file reading for [ubm_866] <<
+(SegTools) >> Proceeding label file reading for [ubm_867] <<
+(SegTools) >> Proceeding label file reading for [ubm_868] <<
+(SegTools) >> Proceeding label file reading for [ubm_869] <<
+(SegTools) >> Proceeding label file reading for [ubm_86] <<
+(SegTools) >> Proceeding label file reading for [ubm_870] <<
+(SegTools) >> Proceeding label file reading for [ubm_871] <<
+(SegTools) >> Proceeding label file reading for [ubm_872] <<
+(SegTools) >> Proceeding label file reading for [ubm_873] <<
+(SegTools) >> Proceeding label file reading for [ubm_874] <<
+(SegTools) >> Proceeding label file reading for [ubm_875] <<
+(SegTools) >> Proceeding label file reading for [ubm_876] <<
+(SegTools) >> Proceeding label file reading for [ubm_877] <<
+(SegTools) >> Proceeding label file reading for [ubm_878] <<
+(SegTools) >> Proceeding label file reading for [ubm_879] <<
+(SegTools) >> Proceeding label file reading for [ubm_87] <<
+(SegTools) >> Proceeding label file reading for [ubm_880] <<
+(SegTools) >> Proceeding label file reading for [ubm_881] <<
+(SegTools) >> Proceeding label file reading for [ubm_882] <<
+(SegTools) >> Proceeding label file reading for [ubm_883] <<
+(SegTools) >> Proceeding label file reading for [ubm_884] <<
+(SegTools) >> Proceeding label file reading for [ubm_885] <<
+(SegTools) >> Proceeding label file reading for [ubm_886] <<
+(SegTools) >> Proceeding label file reading for [ubm_887] <<
+(SegTools) >> Proceeding label file reading for [ubm_888] <<
+(SegTools) >> Proceeding label file reading for [ubm_889] <<
+(SegTools) >> Proceeding label file reading for [ubm_88] <<
+(SegTools) >> Proceeding label file reading for [ubm_890] <<
+(SegTools) >> Proceeding label file reading for [ubm_891] <<
+(SegTools) >> Proceeding label file reading for [ubm_892] <<
+(SegTools) >> Proceeding label file reading for [ubm_893] <<
+(SegTools) >> Proceeding label file reading for [ubm_894] <<
+(SegTools) >> Proceeding label file reading for [ubm_895] <<
+(SegTools) >> Proceeding label file reading for [ubm_896] <<
+(SegTools) >> Proceeding label file reading for [ubm_897] <<
+(SegTools) >> Proceeding label file reading for [ubm_898] <<
+(SegTools) >> Proceeding label file reading for [ubm_899] <<
+(SegTools) >> Proceeding label file reading for [ubm_89] <<
+(SegTools) >> Proceeding label file reading for [ubm_8] <<
+(SegTools) >> Proceeding label file reading for [ubm_900] <<
+(SegTools) >> Proceeding label file reading for [ubm_901] <<
+(SegTools) >> Proceeding label file reading for [ubm_902] <<
+(SegTools) >> Proceeding label file reading for [ubm_903] <<
+(SegTools) >> Proceeding label file reading for [ubm_904] <<
+(SegTools) >> Proceeding label file reading for [ubm_905] <<
+(SegTools) >> Proceeding label file reading for [ubm_906] <<
+(SegTools) >> Proceeding label file reading for [ubm_907] <<
+(SegTools) >> Proceeding label file reading for [ubm_908] <<
+(SegTools) >> Proceeding label file reading for [ubm_909] <<
+(SegTools) >> Proceeding label file reading for [ubm_90] <<
+(SegTools) >> Proceeding label file reading for [ubm_910] <<
+(SegTools) >> Proceeding label file reading for [ubm_911] <<
+(SegTools) >> Proceeding label file reading for [ubm_912] <<
+(SegTools) >> Proceeding label file reading for [ubm_913] <<
+(SegTools) >> Proceeding label file reading for [ubm_914] <<
+(SegTools) >> Proceeding label file reading for [ubm_915] <<
+(SegTools) >> Proceeding label file reading for [ubm_916] <<
+(SegTools) >> Proceeding label file reading for [ubm_917] <<
+(SegTools) >> Proceeding label file reading for [ubm_918] <<
+(SegTools) >> Proceeding label file reading for [ubm_919] <<
+(SegTools) >> Proceeding label file reading for [ubm_91] <<
+(SegTools) >> Proceeding label file reading for [ubm_920] <<
+(SegTools) >> Proceeding label file reading for [ubm_921] <<
+(SegTools) >> Proceeding label file reading for [ubm_922] <<
+(SegTools) >> Proceeding label file reading for [ubm_923] <<
+(SegTools) >> Proceeding label file reading for [ubm_924] <<
+(SegTools) >> Proceeding label file reading for [ubm_925] <<
+(SegTools) >> Proceeding label file reading for [ubm_926] <<
+(SegTools) >> Proceeding label file reading for [ubm_927] <<
+(SegTools) >> Proceeding label file reading for [ubm_928] <<
+(SegTools) >> Proceeding label file reading for [ubm_929] <<
+(SegTools) >> Proceeding label file reading for [ubm_92] <<
+(SegTools) >> Proceeding label file reading for [ubm_930] <<
+(SegTools) >> Proceeding label file reading for [ubm_931] <<
+(SegTools) >> Proceeding label file reading for [ubm_932] <<
+(SegTools) >> Proceeding label file reading for [ubm_933] <<
+(SegTools) >> Proceeding label file reading for [ubm_934] <<
+(SegTools) >> Proceeding label file reading for [ubm_935] <<
+(SegTools) >> Proceeding label file reading for [ubm_936] <<
+(SegTools) >> Proceeding label file reading for [ubm_937] <<
+(SegTools) >> Proceeding label file reading for [ubm_938] <<
+(SegTools) >> Proceeding label file reading for [ubm_939] <<
+(SegTools) >> Proceeding label file reading for [ubm_93] <<
+(SegTools) >> Proceeding label file reading for [ubm_940] <<
+(SegTools) >> Proceeding label file reading for [ubm_941] <<
+(SegTools) >> Proceeding label file reading for [ubm_942] <<
+(SegTools) >> Proceeding label file reading for [ubm_943] <<
+(SegTools) >> Proceeding label file reading for [ubm_944] <<
+(SegTools) >> Proceeding label file reading for [ubm_945] <<
+(SegTools) >> Proceeding label file reading for [ubm_946] <<
+(SegTools) >> Proceeding label file reading for [ubm_947] <<
+(SegTools) >> Proceeding label file reading for [ubm_948] <<
+(SegTools) >> Proceeding label file reading for [ubm_949] <<
+(SegTools) >> Proceeding label file reading for [ubm_94] <<
+(SegTools) >> Proceeding label file reading for [ubm_950] <<
+(SegTools) >> Proceeding label file reading for [ubm_951] <<
+(SegTools) >> Proceeding label file reading for [ubm_952] <<
+(SegTools) >> Proceeding label file reading for [ubm_953] <<
+(SegTools) >> Proceeding label file reading for [ubm_954] <<
+(SegTools) >> Proceeding label file reading for [ubm_955] <<
+(SegTools) >> Proceeding label file reading for [ubm_956] <<
+(SegTools) >> Proceeding label file reading for [ubm_957] <<
+(SegTools) >> Proceeding label file reading for [ubm_958] <<
+(SegTools) >> Proceeding label file reading for [ubm_959] <<
+(SegTools) >> Proceeding label file reading for [ubm_95] <<
+(SegTools) >> Proceeding label file reading for [ubm_960] <<
+(SegTools) >> Proceeding label file reading for [ubm_961] <<
+(SegTools) >> Proceeding label file reading for [ubm_962] <<
+(SegTools) >> Proceeding label file reading for [ubm_963] <<
+(SegTools) >> Proceeding label file reading for [ubm_964] <<
+(SegTools) >> Proceeding label file reading for [ubm_965] <<
+(SegTools) >> Proceeding label file reading for [ubm_966] <<
+(SegTools) >> Proceeding label file reading for [ubm_967] <<
+(SegTools) >> Proceeding label file reading for [ubm_968] <<
+(SegTools) >> Proceeding label file reading for [ubm_969] <<
+(SegTools) >> Proceeding label file reading for [ubm_96] <<
+(SegTools) >> Proceeding label file reading for [ubm_970] <<
+(SegTools) >> Proceeding label file reading for [ubm_971] <<
+(SegTools) >> Proceeding label file reading for [ubm_972] <<
+(SegTools) >> Proceeding label file reading for [ubm_973] <<
+(SegTools) >> Proceeding label file reading for [ubm_974] <<
+(SegTools) >> Proceeding label file reading for [ubm_975] <<
+(SegTools) >> Proceeding label file reading for [ubm_976] <<
+(SegTools) >> Proceeding label file reading for [ubm_977] <<
+(SegTools) >> Proceeding label file reading for [ubm_978] <<
+(SegTools) >> Proceeding label file reading for [ubm_979] <<
+(SegTools) >> Proceeding label file reading for [ubm_97] <<
+(SegTools) >> Proceeding label file reading for [ubm_980] <<
+(SegTools) >> Proceeding label file reading for [ubm_981] <<
+(SegTools) >> Proceeding label file reading for [ubm_982] <<
+(SegTools) >> Proceeding label file reading for [ubm_983] <<
+(SegTools) >> Proceeding label file reading for [ubm_984] <<
+(SegTools) >> Proceeding label file reading for [ubm_985] <<
+(SegTools) >> Proceeding label file reading for [ubm_986] <<
+(SegTools) >> Proceeding label file reading for [ubm_987] <<
+(SegTools) >> Proceeding label file reading for [ubm_988] <<
+(SegTools) >> Proceeding label file reading for [ubm_989] <<
+(SegTools) >> Proceeding label file reading for [ubm_98] <<
+(SegTools) >> Proceeding label file reading for [ubm_990] <<
+(SegTools) >> Proceeding label file reading for [ubm_991] <<
+(SegTools) >> Proceeding label file reading for [ubm_992] <<
+(SegTools) >> Proceeding label file reading for [ubm_993] <<
+(SegTools) >> Proceeding label file reading for [ubm_994] <<
+(SegTools) >> Proceeding label file reading for [ubm_995] <<
+(SegTools) >> Proceeding label file reading for [ubm_996] <<
+(SegTools) >> Proceeding label file reading for [ubm_997] <<
+(SegTools) >> Proceeding label file reading for [ubm_998] <<
+(SegTools) >> Proceeding label file reading for [ubm_999] <<
+(SegTools) >> Proceeding label file reading for [ubm_99] <<
+(SegTools) >> Proceeding label file reading for [ubm_9] <<
+Warning File[ubm_906], Truncate Segment begin:30980 length:15 file size:30994 new length:14
+Warning File[ubm_912], Truncate Segment begin:10135 length:41 file size:10175 new length:40
+Warning File[ubm_913], Truncate Segment begin:6322 length:21 file size:6342 new length:20
+Warning File[ubm_915], Truncate Segment begin:11109 length:46 file size:11154 new length:45
+Warning File[ubm_917], Truncate Segment begin:30970 length:25 file size:30994 new length:24
+Warning File[ubm_924], Truncate Segment begin:30370 length:625 file size:30994 new length:624
+Warning File[ubm_926], Truncate Segment begin:29701 length:1294 file size:30994 new length:1293
+Warning File[ubm_929], Truncate Segment begin:30992 length:3 file size:30994 new length:2
+Warning File[ubm_930], Truncate Segment begin:30987 length:8 file size:30994 new length:7
+Warning File[ubm_933], Truncate Segment begin:30988 length:7 file size:30994 new length:6
+Warning File[ubm_934], Truncate Segment begin:30944 length:51 file size:30994 new length:50
+Warning File[ubm_937], Truncate Segment begin:6310 length:5 file size:6314 new length:4
+Warning File[ubm_939], Truncate Segment begin:10097 length:1058 file size:11154 new length:1057
+Warning File[ubm_942], Truncate Segment begin:30993 length:2 file size:30994 new length:1
+Warning File[ubm_944], Truncate Segment begin:5983 length:2373 file size:8355 new length:2372
+Warning File[ubm_945], Truncate Segment begin:7207 length:139 file size:7345 new length:138
+Warning File[ubm_951], Truncate Segment begin:30945 length:50 file size:30994 new length:49
+Warning File[ubm_955], Truncate Segment begin:30912 length:83 file size:30994 new length:82
+Warning File[ubm_961], Truncate Segment begin:30956 length:39 file size:30994 new length:38
+Warning File[ubm_964], Truncate Segment begin:30990 length:5 file size:30994 new length:4
+Warning File[ubm_966], Truncate Segment begin:30986 length:9 file size:30994 new length:8
+Warning File[ubm_971], Truncate Segment begin:30990 length:5 file size:30994 new length:4
+Warning File[ubm_974], Truncate Segment begin:30701 length:294 file size:30994 new length:293
+Warning File[ubm_977], Truncate Segment begin:6943 length:1258 file size:8200 new length:1257
+Warning File[ubm_985], Truncate Segment begin:10674 length:451 file size:11124 new length:450
+Warning File[ubm_987], Truncate Segment begin:30989 length:6 file size:30994 new length:5
+Warning File[ubm_989], Truncate Segment begin:7963 length:374 file size:8336 new length:373
+Warning File[ubm_993], Truncate Segment begin:29428 length:1567 file size:30994 new length:1566
+Warning File[ubm_994], Truncate Segment begin:30963 length:32 file size:30994 new length:31
+Warning File[ubm_995], Truncate Segment begin:30968 length:27 file size:30994 new length:26
+Warning File[ubm_997], Truncate Segment begin:30981 length:14 file size:30994 new length:13
+Stream mode, nb Stream=1
+Compute global mean and cov
+global mean and cov of training data, number of frame= [1374788]
+mean[0=1.86091e-11]	cov[1]
+mean[1=-1.84905e-11]	cov[1]
+mean[2=1.03929e-11]	cov[1]
+mean[3=-3.00079e-11]	cov[1]
+mean[4=-1.45016e-11]	cov[1]
+mean[5=-1.35232e-11]	cov[1]
+mean[6=3.16394e-11]	cov[1]
+mean[7=8.44866e-12]	cov[1]
+mean[8=-1.36057e-11]	cov[1]
+mean[9=1.5512e-11]	cov[1]
+mean[10=1.40505e-11]	cov[1]
+mean[11=6.60582e-12]	cov[1]
+mean[12=3.47733e-12]	cov[1]
+mean[13=2.68373e-11]	cov[1]
+mean[14=-2.09204e-11]	cov[1]
+mean[15=-3.47545e-12]	cov[1]
+mean[16=1.03689e-11]	cov[1]
+mean[17=-3.30938e-11]	cov[1]
+mean[18=-5.79541e-12]	cov[1]
+mean[19=2.01112e-11]	cov[1]
+mean[20=-1.16899e-11]	cov[1]
+mean[21=1.17707e-11]	cov[1]
+mean[22=1.13385e-11]	cov[1]
+mean[23=1.70386e-11]	cov[1]
+mean[24=-3.29751e-12]	cov[1]
+mean[25=-2.37775e-11]	cov[1]
+mean[26=-2.35658e-11]	cov[1]
+mean[27=-1.02569e-11]	cov[1]
+mean[28=-9.59128e-12]	cov[1]
+mean[29=-1.17033e-11]	cov[1]
+mean[30=-6.89928e-12]	cov[1]
+mean[31=1.96476e-11]	cov[1]
+mean[32=2.55989e-11]	cov[1]
+mean[33=2.63404e-11]	cov[1]
+mean[34=-5.90362e-11]	cov[1]
+mean[35=1.63132e-11]	cov[1]
+mean[36=-3.07986e-11]	cov[1]
+mean[37=-2.26239e-11]	cov[1]
+mean[38=9.71421e-12]	cov[1]
+mean[39=-6.34282e-12]	cov[1]
+mean[40=3.2578e-12]	cov[1]
+mean[41=2.93715e-11]	cov[1]
+mean[42=4.00663e-11]	cov[1]
+mean[43=-1.13159e-11]	cov[1]
+mean[44=6.18391e-12]	cov[1]
+mean[45=-1.55077e-11]	cov[1]
+mean[46=2.30191e-11]	cov[1]
+mean[47=6.24677e-13]	cov[1]
+mean[48=-2.75379e-12]	cov[1]
+mean[49=9.07291e-12]	cov[1]
+World model init from scratch
+begin of mixtureInit
+baggedMinimalLength[3] MaximalLength[10]
+mixtureInit, total frames with stream weighting[1374788] total frame to select by component[100]
+bagged proba init ok
+Init Stream[0] Bagged by comp=7.27385e-05 It[0]
+Bagged segments, Initial frames[1374788] Selected frames[3106] % selected[0.225926]
+Initialize model
+Nb Frame for mean[0] init =[80]
+Nb Frame for mean[1] init =[97]
+Nb Frame for mean[2] init =[124]
+Nb Frame for mean[3] init =[76]
+Nb Frame for mean[4] init =[43]
+Nb Frame for mean[5] init =[61]
+Nb Frame for mean[6] init =[101]
+Nb Frame for mean[7] init =[56]
+Nb Frame for mean[8] init =[113]
+Nb Frame for mean[9] init =[84]
+Nb Frame for mean[10] init =[133]
+Nb Frame for mean[11] init =[73]
+Nb Frame for mean[12] init =[139]
+Nb Frame for mean[13] init =[61]
+Nb Frame for mean[14] init =[113]
+Nb Frame for mean[15] init =[43]
+Nb Frame for mean[16] init =[65]
+Nb Frame for mean[17] init =[172]
+Nb Frame for mean[18] init =[190]
+Nb Frame for mean[19] init =[133]
+Nb Frame for mean[20] init =[149]
+Nb Frame for mean[21] init =[65]
+Nb Frame for mean[22] init =[56]
+Nb Frame for mean[23] init =[99]
+Nb Frame for mean[24] init =[64]
+Nb Frame for mean[25] init =[110]
+Nb Frame for mean[26] init =[59]
+Nb Frame for mean[27] init =[133]
+Nb Frame for mean[28] init =[108]
+Nb Frame for mean[29] init =[109]
+Nb Frame for mean[30] init =[76]
+Nb Frame for mean[31] init =[121]
+Training parameters 
+nb training iterations:5
+init variance floor:0.01 final floor:0.01
+init variance ceil:10 final ceil:10
+normaliseModel on
+baggedMinimalLength[3] MaximalLength[10]
+LLK Initial model= -70.7875
+Train it[0], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[1374788] total frame to select [412436]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[1374788] Selected frames[413301] % selected[30.0629]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:0Thread:3 broke broke
+
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=105841
+Number of frames treated by thread [1]=102675
+Number of frames treated by thread [2]=105652
+Number of frames treated by thread [3]=99133
+Total Number of frames in threads: 413301
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (take care, it corresponds to the previous it,0 means init likelihood) =-70.7681 Nb Frames=413301
+Train it[1], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[1374788] total frame to select [412436]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[1374788] Selected frames[411125] % selected[29.9046]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:3 broke
+Thread:0 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=109706
+Number of frames treated by thread [1]=107064
+Number of frames treated by thread [2]=108784
+Number of frames treated by thread [3]=85571
+Total Number of frames in threads: 411125
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (take care, it corresponds to the previous it,0 means init likelihood) =-69.9424 Nb Frames=411125
+Train it[2], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[1374788] total frame to select [412436]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[1374788] Selected frames[411592] % selected[29.9386]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:3 broke
+Thread:2 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=102756
+Number of frames treated by thread [1]=104186
+Number of frames treated by thread [2]=98379
+Number of frames treated by thread [3]=106271
+Total Number of frames in threads: 411592
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (take care, it corresponds to the previous it,0 means init likelihood) =-68.6675 Nb Frames=411592
+Train it[3], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[1374788] total frame to select [412436]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[1374788] Selected frames[411569] % selected[29.9369]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:3 broke
+Thread:0 broke
+Thread:2 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=94598
+Number of frames treated by thread [1]=112830
+Number of frames treated by thread [2]=93533
+Number of frames treated by thread [3]=110608
+Total Number of frames in threads: 411569
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (take care, it corresponds to the previous it,0 means init likelihood) =-67.8612 Nb Frames=411569
+Train it[4], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[1374788] total frame to select [412436]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[1374788] Selected frames[412984] % selected[30.0398]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:0 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=95637
+Number of frames treated by thread [1]=110399
+Number of frames treated by thread [2]=94640
+Number of frames treated by thread [3]=112308
+Total Number of frames in threads: 412984
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (take care, it corresponds to the previous it,0 means init likelihood) =-67.5769 Nb Frames=412984
+ Final ll world = -67.4226
+Save world model [world]
