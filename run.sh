@@ -41,6 +41,7 @@ else
 
     echo "${fm_txt} 区分男女 or 地域!!!"
 
+    dos2unix ${fm_txt}
     ### 类别划分list
     awk '{print $2}' ${fm_txt} |sort|uniq|while read MF
     do
